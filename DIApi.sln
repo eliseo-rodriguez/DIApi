@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32120.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIApi", "DIApi.csproj", "{9F6ED845-3C12-447C-A148-412B59D7A07D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F6ED845-3C12-447C-A148-412B59D7A07D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6ED845-3C12-447C-A148-412B59D7A07D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6ED845-3C12-447C-A148-412B59D7A07D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6ED845-3C12-447C-A148-412B59D7A07D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E12E3AA-2542-43A7-A625-E617C722246B}
+	EndGlobalSection
+EndGlobal
